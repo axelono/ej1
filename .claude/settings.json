@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "whatdoyoudo-plugins": {
+      "source": {
+        "source": "github",
+        "repo": "bhpascal/whatdoyoudo-plugins"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "personality-roulette@whatdoyoudo-plugins": true
+  }
+}
